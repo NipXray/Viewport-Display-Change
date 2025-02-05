@@ -13,10 +13,6 @@ Well In Blender Viewport Display in the Mesh are just can Included 1 Color, with
 
 ![image](https://github.com/user-attachments/assets/2379fa0e-7801-4d27-8674-e29f71c2d2f5)
 
-- You can Added New Custom Properties if the bone didn't have Custom Properties, or Custom Properties with the Name intended
-
-![image](https://github.com/user-attachments/assets/b9511c83-1bad-4bc2-a3e3-43655878b441)
-
 - Also can Search the Custom Properties
 
 ![image](https://github.com/user-attachments/assets/8916adee-8083-481b-bf73-e7f896c4c3d1)
