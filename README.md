@@ -5,7 +5,8 @@ Blender (Rigger/Mechanic) addon, to Change Viewport Display Color as needed.
 
 Well In Blender Viewport Display in the Mesh are just can Included 1 Color, with this addon we Create the Viewport Display Can Change Color by give it an Driver to each RGB in the Viewport Display, Controlled by Bone Custom Properties, or you can Update it Yourself for the Target, in the Viewport Display after Generating the Script to the RGB Column
 
-- Can have many Custom Properties included in Each RGB, if you want to Change the Color to many Color. "You Can"
+- Can have many Custom Properties included in Each RGB, if you want to Change the Color to many Color.
+"You Can"
 
 ![image](https://github.com/user-attachments/assets/2379fa0e-7801-4d27-8674-e29f71c2d2f5)
 
